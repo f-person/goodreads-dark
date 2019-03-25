@@ -1,14 +1,14 @@
 <p align="left">
   <img width=580px src="images/logo.svg">
   <br>
-  <a style="display: inline-block" href="https://github.com/obscuredetour/goodreads-dark/">
+  <a style="display: inline-block" href="https://github.com/f-person/goodreads-dark/">
     <img alt="Maintained?" src="https://img.shields.io/maintenance/yes/2019.svg?colorB=hsl%28165%2C%2042%25%2C%2035%25%29">
   </a>
-  <a href="https://github.com/obscuredetour/goodreads-dark/commits/master">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/obscuredetour/goodreads-dark.svg?colorB=hsl%28165%2C%2042%25%2C%2035%25%29">
+  <a href="https://github.com/f-person/goodreads-dark/commits/master">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/f-person/goodreads-dark.svg?colorB=hsl%28165%2C%2042%25%2C%2035%25%29">
   </a>
-  <a href="https://github.com/obscuredetour/goodreads-dark/tags">
-    <img alt="Tag" src="https://img.shields.io/github/tag/obscuredetour/goodreads-dark.svg?colorB=hsl%28165%2C%2042%25%2C%2035%25%29&label=version">
+  <a href="https://github.com/f-person/goodreads-dark/tags">
+    <img alt="Tag" src="https://img.shields.io/github/tag/f-person/goodreads-dark.svg?colorB=hsl%28165%2C%2042%25%2C%2035%25%29&label=version">
   </a>
 </p>
 
@@ -17,12 +17,12 @@ This is a dark theme for the [goodreads.com](https://www.goodreads.com) website.
 
 ### 2 versions
 **Default**
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://github.com/obscuredetour/goodreads-dark/raw/master/goodreads-dark.user.css)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://github.com/f-person/goodreads-dark/raw/master/goodreads-dark.user.css)
 
 Default is now the [-Zero saturation version](#dark-jade-default). It keeps the accent colors the same but zeros out the saturation on the backgrounds making it more grey. The `zerosat` file will remain for users who have this installed.
 
 **Jade (OG)**
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://github.com/obscuredetour/goodreads-dark/raw/master/goodreads-dark-og.user.css)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://github.com/f-person/goodreads-dark/raw/master/goodreads-dark-og.user.css)
 
 Jade (OG) is the original theme. [Seen here](#dark-jade-og).
 
@@ -58,14 +58,14 @@ A userstyle extension for your browser is required, here are a few to choose fro
 
 Install the dark theme with the links below. They support automatic updates.
 
-- [Install goodreads.com Dark (Jade) theme](https://github.com/obscuredetour/goodreads-dark/raw/master/goodreads-dark.user.css)
-- [Install goodreads.com Dark (Jade) **-Zero saturation** theme](https://github.com/obscuredetour/goodreads-dark/raw/master/goodreads-dark-zerosat.user.css)
+- [Install goodreads.com Dark (Jade) theme](https://github.com/f-person/goodreads-dark/raw/master/goodreads-dark.user.css)
+- [Install goodreads.com Dark (Jade) **-Zero saturation** theme](https://github.com/f-person/goodreads-dark/raw/master/goodreads-dark-zerosat.user.css)
 
 Then, the raw file will open in the browser and the extension will open a new tab asking to install it. After clicking *'install style'*, you're finished.
 
 Or visit the [Goodreads dark (jade) theme](https://userstyles.org/styles/166991/goodreads-dark-jade-theme) at Userstyles.org and click **Install Style**
 
-Copy and pasting the [goodreads-dark.user.css](https://github.com/obscuredetour/goodreads-dark/raw/master/goodreads-dark.user.css) or [goodreads-dark-zerosat.user.css](https://github.com/obscuredetour/goodreads-dark/raw/master/goodreads-dark-zerosat.user.css) file into the extension also works.
+Copy and pasting the [goodreads-dark.user.css](https://github.com/f-person/goodreads-dark/raw/master/goodreads-dark.user.css) or [goodreads-dark-zerosat.user.css](https://github.com/f-person/goodreads-dark/raw/master/goodreads-dark-zerosat.user.css) file into the extension also works.
 
 Further instructions can be found [here](https://github.com/openstyles/stylus/wiki/UserCSS#usercss-file).
 
@@ -116,10 +116,10 @@ I also took liberties with some aesthetics.
 
 ## Archived Screenshots
 
-[v1.1 - Goodreads - Explore](https://raw.githubusercontent.com/obscuredetour/goodreads-dark/master/images/ss_v1.1-gr-explore.png)
+[v1.1 - Goodreads - Explore](https://raw.githubusercontent.com/f-person/goodreads-dark/master/images/ss_v1.1-gr-explore.png)
 
-[v1.1 - Goodreads - News & Interviews](https://raw.githubusercontent.com/obscuredetour/goodreads-dark/master/images/ss_v1.1-gr-news.png)
+[v1.1 - Goodreads - News & Interviews](https://raw.githubusercontent.com/f-person/goodreads-dark/master/images/ss_v1.1-gr-news.png)
 
-[v1.1 - Goodreads - 2018 Choice Awards](https://raw.githubusercontent.com/obscuredetour/goodreads-dark/master/images/ss_v1.1-gr-2018-choice.png)
+[v1.1 - Goodreads - 2018 Choice Awards](https://raw.githubusercontent.com/f-person/goodreads-dark/master/images/ss_v1.1-gr-2018-choice.png)
 
 **[Back to top](#table-of-contents)**
